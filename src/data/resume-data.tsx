@@ -16,8 +16,8 @@ export const RESUME_DATA = {
     "Versatile Software Engineer with a USC Master's in Computer Science degree, excelling in AI research and Software development, adept at Python, C++, and Pytorch, with a proven track record at USC ISI and Amazon, ready to drive impactful solutions.",
   summary:
     "As a recent graduate with a Master's in Computer Science degree from USC, I have cultivated a strong foundation in Python, C++, Pytorch, and Javascript, complemented by hands-on experience in AWS services and other full stack development frameworks. My work at USC Information Sciences Institute and Amazon has equipped me with the skills needed for Software development, with a particular interest in AI and Machine learning. I enjoy the process of turning complex concepts into practical, scalable software solutions. In collaborative environments, I strive to contribute effectively, balancing innovation with a meticulous approach to project management. Eager to continue growing, I am ready to tackle new challenges and contribute meaningfully in the tech industry.",
-  avatarUrl: '',
-  personalWebsiteUrl: "",
+    avatarUrl: 'https://github.com/Indra24710/Indra24710.github.io/blob/main/src/images/logos/linkedin_profile_logo.jpeg?raw=true',
+    personalWebsiteUrl: "",
   contact: {
     email: "indra.kumar.v.11@gmail.com",
     tel: "+12243107953",
