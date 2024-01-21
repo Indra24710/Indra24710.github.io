@@ -18,10 +18,8 @@
 import ISILogo from "./ISI.png"
 import AmazonLogo from "./amazon-logo.png"
 import USCLogo from "./usclogo.png"
-import profilePicLogo from "./linkedin_profile_logo.jpg"
 export {
   ISILogo,
   AmazonLogo,
-  USCLogo,
-  profilePicLogo
+  USCLogo
 };

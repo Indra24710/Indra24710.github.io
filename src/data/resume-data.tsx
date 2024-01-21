@@ -3,7 +3,7 @@ import {
   ISILogo,
   AmazonLogo,
   USCLogo,
-  profilePicLogo
+  
 } from "@/images/logos";
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
